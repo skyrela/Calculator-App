@@ -4,12 +4,15 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <stroke
-        android:color="@color/dayMode_yellow"
-        android:width="1dp"/>
+        android:color="@color/dayMode_green" />
 
-    <solid
-        android:color="@color/white"/>
+    <gradient
+        android:startColor="#4DD5F6FF"
+        android:endColor="#8691EAFF"
+        android:gradientRadius="100"/>
 
     <corners
-        android:radius="1dp"/>
+        android:topRightRadius="3dp"
+        android:bottomLeftRadius="3dp"/>
+
 </shape>

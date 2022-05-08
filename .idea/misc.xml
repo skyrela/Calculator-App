@@ -4,13 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/backspace.xml" value="0.1055" />
-        <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/buttons.xml" value="0.17" />
+        <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/buttons.xml" value="0.1275" />
         <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/clear_button.xml" value="0.1055" />
         <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/ic_backspace.xml" value="0.1055" />
         <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/ic_history.xml" value="0.1055" />
         <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/ic_rotation.xml" value="0.1055" />
+        <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/result_surface.xml" value="0.1275" />
+        <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/rounded.xml" value="0.1275" />
         <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/drawable/whatever.xml" value="0.1055" />
-        <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/layout/activity_main.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/layout/activity_main.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/layout/bottom_sheet.xml" value="0.67" />
+        <entry key="..\:/Users/Anjal/AndroidStudioProjects/CalculatorApp/app/src/main/res/layout/button_holder_layout.xml" value="0.2" />
       </map>
     </option>
   </component>
@@ -19,5 +23,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>

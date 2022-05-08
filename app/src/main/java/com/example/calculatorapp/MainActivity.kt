@@ -6,6 +6,7 @@ import android.view.View
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import com.example.calculatorapp.databinding.ActivityMainBinding
+import com.google.android.material.bottomsheet.BottomSheetBehavior
 import net.objecthunter.exp4j.ExpressionBuilder
 
 class MainActivity : AppCompatActivity() {
@@ -21,6 +22,11 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.InputTextView.showSoftInputOnFocus = false
+
+        BottomSheetBehavior.from(binding.idButtonHolder).apply {
+            peekHeight = 70
+            this.state = BottomSheetBehavior.STATE_COLLAPSED
+        }
 
     }
 
